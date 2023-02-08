@@ -1,2 +1,2 @@
-# Programaci-n-al-Coraz-n
+# Programación-al-Corazón
 Reto #2
